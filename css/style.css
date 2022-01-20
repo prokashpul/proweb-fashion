@@ -1,0 +1,21 @@
+.text-primary{
+    color:#A4BC46!important;
+}
+.btn-primary{
+    background-color:#A4BC46!important;
+    border-color:#A4BC46!important;
+    transition: 1s ease ;
+}
+.btn-primary:hover,.btn-primary:focus{
+    background-color:#FABE4C!important;
+    border-color:#FABE4C!important;
+    transform: scale(1.1);
+}
+.header{
+    background:#FFFBF0;
+}
+.header-content h1{
+    font-size: 4rem;
+    line-height:4rem;
+    text-transform: uppercase;
+}
